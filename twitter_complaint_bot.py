@@ -6,9 +6,9 @@ from selenium.webdriver.common.by import By
 PROMISED_DOWN=150
 PROMISED_UP=10
 CHROME_DRIVER_PATH="Users/shanu/development/chromedriver"
-TWITTER_EMAIL="sangusaishanmukha@gmail.com"
-TWITTER_PASSWORD="shanu@2003"
-USERNAME="saishanmukhasa1"
+TWITTER_EMAIL="Your mail"
+TWITTER_PASSWORD="Your password3"
+USERNAME="Your username"
 
 class InternetSpeedTwitterBot():
     def __init__(self):
